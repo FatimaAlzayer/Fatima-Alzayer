@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @FatimaAlzayer
 - 👀 I’m interested in UI/UX, data analysis, app development
-- 🌱 I’m currently learning python for ai and data science
+- 🌱 I’m currently learning flutter and dart for app development
 - 📫 How to reach me Fatima.ali.alzayer@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
