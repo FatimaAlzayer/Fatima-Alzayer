@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @FatimaAlzayer<br> 🌱 I’m interested in UI/UX, data analysis, app development<br>📚 I’m currently learning flutter and dart for app development<br>📫 How to reach me Fatima.ali.alzayer@gmail.com</p>
+<p align="left">👋 Hi, I’m Fatima Alzayer<br> 🌱 I’m interested in UI/UX, data analysis, app development<br>📚 I’m currently learning flutter and dart for app development<br>📫 How to reach me Fatima.ali.alzayer@gmail.com</p>
 
 ###
 
